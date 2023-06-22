@@ -1,0 +1,39 @@
+TODO UTILS
+
+    1 Get Move.lua setup
+
+        1 Get turtle.api wraped
+
+        2 Get location tracker setup for the wraped api
+
+        3 Get basic pathing setup
+
+        4 get advanced pathing setup
+
+    2 Get Inventory.lua setup
+
+        1 Get inventory tracker setup
+
+        2 Get inventory mangagment setup
+
+        3 Get inventory sorter setup
+
+    3 Get Network.lua setup
+
+        1 Get Rednet api wraped
+
+        2 Get Rednet wraper managed/abstracted
+
+        3 ???
+
+        4 ???
+
+    4 Get Builder.lua setup
+
+        1 Figure you how to setup a building library
+
+    5 Get Interface.lua setup
+
+        1 Setup a GUI library for ComputerCraft
+
+

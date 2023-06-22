@@ -1,0 +1,14 @@
+README
+
+HEKTEK
+
+    HEKTEK is a library & program package for the Minecraft mod ComputerCraft
+
+
+    The Utils folder contains the librarys used to power the programs in the Scripts Folder
+
+    The Init.lua file will open a GUI for launching programs possibley in the future
+
+    The CTN folder is used to hold the CTN library
+        CTN stands for Custom Text Notation
+

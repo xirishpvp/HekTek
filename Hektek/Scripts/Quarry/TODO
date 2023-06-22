@@ -1,0 +1,13 @@
+TODO QUARRY
+
+    1 Setup Quarry.lua
+
+        1 Make a Script that can mine a specified area
+
+    2 Setup QuarryServer.lua
+
+        1 Make a script that can manage the turtles running Quarryclient.lua
+
+    3 Setup QuarryClient.lua
+
+        1 Make a script that takes commands from QuarryServer.lua

@@ -1,0 +1,11 @@
+README
+
+    Rules For Utils Folder
+
+        1 Every Module accept "util.lua" will not be required for the modules to function
+
+            1 exception builder.lua might have some interplay with move.lua
+
+        2 Minimize overly complex code, if there is a function that excedes 100 lines of code you have a problum
+
+        3 Use Tables if applicable for managing information
